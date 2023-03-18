@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RedisInMemory.RedisExampleApp.API.props" />
+</Project>

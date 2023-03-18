@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7own/akV0jo5ZbByqzwufj4V3nzEUEMLZSsC0PFITTw=",
+  "Source": "RedisInMemory.RedisExampleApp.API",
+  "BasePath": "_content/RedisInMemory.RedisExampleApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

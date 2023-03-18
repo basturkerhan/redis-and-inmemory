@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6L2v5gA0K6NjrPD74RDO7y3AzvmeQlNfFqBb2Es9aTh2YQmupxLabBoFUo5s9CvsdpeSvaE7UItvP2Njl6TX6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erhaa\\source\\repos\\RedisInMemory\\RedisInMemory.RedisExampleApp.Cache\\RedisInMemory.RedisExampleApp.Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erhaa\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\erhaa\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
+    "C:\\Users\\erhaa\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

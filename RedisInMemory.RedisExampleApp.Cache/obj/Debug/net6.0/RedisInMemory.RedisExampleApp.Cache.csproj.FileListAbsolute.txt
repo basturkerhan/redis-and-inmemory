@@ -1,0 +1,12 @@
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\bin\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.deps.json
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\bin\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.dll
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\bin\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.pdb
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.csproj.AssemblyReference.cache
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.AssemblyInfoInputs.cache
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.AssemblyInfo.cs
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.csproj.CoreCompileInputs.cache
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.dll
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\refint\RedisInMemory.RedisExampleApp.Cache.dll
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\RedisInMemory.RedisExampleApp.Cache.pdb
+C:\Users\erhaa\source\repos\RedisInMemory\RedisInMemory.RedisExampleApp.Cache\obj\Debug\net6.0\ref\RedisInMemory.RedisExampleApp.Cache.dll
