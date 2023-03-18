@@ -1,12 +1,12 @@
-﻿
-@model List<string>
+﻿@model Dictionary<string,string>
 
 <form method="post" asp-action="Add" enctype="application/x-www-form-urlencoded">
     <input type="text" name="name" />
+    <input type="text" name="val" />
     <button type="submit">Kaydet</button>
 </form>
 
 @foreach (var item in Model)
 {
-    <h2>@item <a asp-controller="ListType" asp-action="Delete" asp-route-name="@item">Sil</a></h2>
+    <h2>@item.Key -> @item.Value <a asp-action="Delete" asp-route-name="@item.Key">Sil</a></h2>
 }

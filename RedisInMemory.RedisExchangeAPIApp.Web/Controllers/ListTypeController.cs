@@ -4,16 +4,12 @@ using StackExchange.Redis;
 
 namespace RedisInMemory.RedisExchangeAPIApp.Web.Controllers
 {
-    public class ListTypeController : Controller
+    public class ListTypeController : BaseController
     {
-        private readonly RedisService _service;
-        private readonly IDatabase _db;
         private string listKey = "names";
 
-        public ListTypeController(RedisService service)
+        public ListTypeController(RedisService service) : base(service)
         {
-            _service = service;
-            _db = service.GetDatabase(1);
         }
 
         public IActionResult Index()
